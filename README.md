@@ -1,6 +1,6 @@
-# Projet_Machine_Learning
 # **README — Mental Health Risk Prediction in the Workplace**
-
+*By Bellagha Anaïs, Aired Maximilien, Bamba Bilal, Agrad Badr*
+---
 ## **1. Project Overview**
 
 The goal of this project is to answer the question:
